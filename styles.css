@@ -1,0 +1,23 @@
+/* This is a CSS comment. Put your CSS styling below this line */
+h1{				/**All changes will be in the big heading */
+	font-family: monospace;
+	
+}
+
+h1{				/**All changes will be in the big heading */
+	
+	font-size: 40pt;
+}
+h1:hover{		/**Hover around will change color */
+	color: red;
+	background: black;
+}
+body
+{
+    text-align: center;
+}
+
+header
+{
+    font-size: large;
+}
